@@ -1,0 +1,1310 @@
+{
+  "voice": "en-GB-RyanNeural",
+  "rate": "-5%",
+  "files": {
+    "A clear checklist can save time when the task is repeated.": {
+      "src": "audio/8dbf350f7cb664f2.mp3",
+      "seconds": 4.368
+    },
+    "A different approach may help us solve a problem.": {
+      "src": "audio/047205f60bbeb43a.mp3",
+      "seconds": 3.528
+    },
+    "A clear example can make a difference when an explanation is abstract.": {
+      "src": "audio/1f0705e39ae4dde9.mp3",
+      "seconds": 4.776
+    },
+    "A realistic schedule makes it easier to achieve a goal.": {
+      "src": "audio/b1a990964f363c60.mp3",
+      "seconds": 4.104
+    },
+    "Before quoting a figure, check that it comes from a reliable source.": {
+      "src": "audio/4f99497863b552cb.mp3",
+      "seconds": 4.752
+    },
+    "Before we start, we need to make a plan for the next two weeks.": {
+      "src": "audio/031173cbd1979fe9.mp3",
+      "seconds": 4.608
+    },
+    "Can we come up with a simpler way to explain the results?": {
+      "src": "audio/c903bf7bbc206a2a.mp3",
+      "seconds": 3.816
+    },
+    "Could we go over the instructions once more before we begin?": {
+      "src": "audio/23cd7efd721b477b.mp3",
+      "seconds": 4.08
+    },
+    "Children who grow up in different countries may speak several languages.": {
+      "src": "audio/7b17325f2d44c52a.mp3",
+      "seconds": 4.896
+    },
+    "Could we have a conversation about the next stage of the project?": {
+      "src": "audio/65cf3e21cc2913e9.mp3",
+      "seconds": 4.152
+    },
+    "Could you give back the book when you have finished it?": {
+      "src": "audio/a7f9cce2a2e46ad6.mp3",
+      "seconds": 3.096
+    },
+    "Could you help me look for my keys? I cannot find them.": {
+      "src": "audio/41e226dd1afdedec.mp3",
+      "seconds": 4.872
+    },
+    "Do not leave out the source when you summarise the result.": {
+      "src": "audio/8f3c59483b88047a.mp3",
+      "seconds": 3.816
+    },
+    "Do not waste time arguing about a detail that does not matter.": {
+      "src": "audio/c043fdc70352abaa.mp3",
+      "seconds": 4.368
+    },
+    "Even if I wake up at six, I sometimes stay in bed until seven.": {
+      "src": "audio/6e9625f5052625db.mp3",
+      "seconds": 4.992
+    },
+    "He asked a question that helped everyone understand the problem.": {
+      "src": "audio/acdf9f2fb8fbe2d9.mp3",
+      "seconds": 4.176
+    },
+    "He came up with a useful analogy that made the concept clearer.": {
+      "src": "audio/b3cbb8d0f403c7bc.mp3",
+      "seconds": 4.272
+    },
+    "He gained experience by taking part in several small projects.": {
+      "src": "audio/71890c19e59b1114.mp3",
+      "seconds": 4.704
+    },
+    "He took a risk by changing careers, but had prepared carefully.": {
+      "src": "audio/97f0aa5d908ae36a.mp3",
+      "seconds": 4.848
+    },
+    "He took a shower and then got ready for work.": {
+      "src": "audio/d9c9fb972194faed.mp3",
+      "seconds": 3.288
+    },
+    "He turned up just as the discussion was ending.": {
+      "src": "audio/c7ccfef7f28196ed.mp3",
+      "seconds": 3.36
+    },
+    "He went on explaining until everyone understood the idea.": {
+      "src": "audio/988736f7597229e5.mp3",
+      "seconds": 4.224
+    },
+    "I accidentally left out an important detail in the first version.": {
+      "src": "audio/fdd9d11ce24912b1.mp3",
+      "seconds": 4.512
+    },
+    "I am awake, but I do not want to get up yet.": {
+      "src": "audio/834a2aed6e8f3744.mp3",
+      "seconds": 3.48
+    },
+    "I am cutting down on social media.": {
+      "src": "audio/d145074f49369465.mp3",
+      "seconds": 3.12
+    },
+    "I am giving up social media.": {
+      "src": "audio/f853b66a21aa2292.mp3",
+      "seconds": 2.736
+    },
+    "I am looking for my notes.": {
+      "src": "audio/9d96b65f8cb7061a.mp3",
+      "seconds": 2.568
+    },
+    "I am looking for a clear explanation of this term.": {
+      "src": "audio/c397277d3c305fe9.mp3",
+      "seconds": 3.648
+    },
+    "I am not using the radio, so I will turn it off.": {
+      "src": "audio/cfc41eab5c95ee4c.mp3",
+      "seconds": 3.984
+    },
+    "I am preparing to give a presentation at the next department meeting.": {
+      "src": "audio/5bb979dd6fc9cd77.mp3",
+      "seconds": 4.368
+    },
+    "I am trying to cut down on the time I spend scrolling through social media.": {
+      "src": "audio/44381c90348f1617.mp3",
+      "seconds": 5.112
+    },
+    "I backed up my files before installing the update.": {
+      "src": "audio/d4229ae30ac0d1ad.mp3",
+      "seconds": 3.936
+    },
+    "I borrowed this pen. I should give it back.": {
+      "src": "audio/88dcb282bbdb5900.mp3",
+      "seconds": 4.296
+    },
+    "I came across an old letter while clearing out a drawer.": {
+      "src": "audio/9fd990b70a28a87c.mp3",
+      "seconds": 3.936
+    },
+    "I cannot give an answer yet.": {
+      "src": "audio/0fa15a598220712c.mp3",
+      "seconds": 2.616
+    },
+    "I can pick you up from the station if you tell me the arrival time.": {
+      "src": "audio/ea14dda48e94d3b5.mp3",
+      "seconds": 4.176
+    },
+    "I caught a bus just before it left the station.": {
+      "src": "audio/24edda348db7eb73.mp3",
+      "seconds": 3.408
+    },
+    "I changed my mind after reading the full explanation.": {
+      "src": "audio/12f746bc9d0b6080.mp3",
+      "seconds": 3.936
+    },
+    "I could not find a reliable source for the claim in the article.": {
+      "src": "audio/1530bf61f937433d.mp3",
+      "seconds": 4.104
+    },
+    "I did housework in the morning and studied in the afternoon.": {
+      "src": "audio/0e371b6cbd161924.mp3",
+      "seconds": 3.912
+    },
+    "I finally worked out how to use the new software.": {
+      "src": "audio/78ade335ee5f5b62.mp3",
+      "seconds": 3.672
+    },
+    "I filled in the missing details and sent the form back.": {
+      "src": "audio/b93dc7e0c8c84662.mp3",
+      "seconds": 3.816
+    },
+    "I get along with my colleagues, even when we disagree.": {
+      "src": "audio/f352f503097af26d.mp3",
+      "seconds": 4.104
+    },
+    "I got up at seven.": {
+      "src": "audio/a188161f416b0a84.mp3",
+      "seconds": 2.208
+    },
+    "I got off the train and walked towards the exit.": {
+      "src": "audio/8ce811b86bc1ac0b.mp3",
+      "seconds": 3.6
+    },
+    "I grew up in a small town before moving to the city.": {
+      "src": "audio/7d5d8a8a41fd199e.mp3",
+      "seconds": 3.792
+    },
+    "I have been putting off replying because I need more information.": {
+      "src": "audio/a6baa761abf9a981.mp3",
+      "seconds": 4.032
+    },
+    "I have to attend a meeting before I can reply to your message.": {
+      "src": "audio/97df9d442e912dbb.mp3",
+      "seconds": 4.2
+    },
+    "I kept my promise.": {
+      "src": "audio/8d0ae3cd5ef94adb.mp3",
+      "seconds": 2.256
+    },
+    "I like to take notes while listening to a lecture.": {
+      "src": "audio/341058e22aec16c2.mp3",
+      "seconds": 3.456
+    },
+    "I logged in from my tablet to check the updated schedule.": {
+      "src": "audio/05e10b2f491f27b5.mp3",
+      "seconds": 4.104
+    },
+    "I looked up the word in a dictionary.": {
+      "src": "audio/79f2be41ea65ffd6.mp3",
+      "seconds": 2.784
+    },
+    "I made a choice after considering how much time I could spend.": {
+      "src": "audio/17b338a3e3284404.mp3",
+      "seconds": 4.296
+    },
+    "I made a mistake in the first calculation, so I checked it again.": {
+      "src": "audio/128a4f4a1155016b.mp3",
+      "seconds": 4.656
+    },
+    "I made a promise.": {
+      "src": "audio/95255f1c5ce7993f.mp3",
+      "seconds": 2.088
+    },
+    "I may have to turn down the invitation because I am already busy.": {
+      "src": "audio/d1325ce93e8efc96.mp3",
+      "seconds": 4.368
+    },
+    "I need to do homework.": {
+      "src": "audio/5939cd96c41a4072.mp3",
+      "seconds": 2.376
+    },
+    "I need more time before I can give an answer.": {
+      "src": "audio/04f81af07b3bca23.mp3",
+      "seconds": 3.24
+    },
+    "I need to do housework.": {
+      "src": "audio/6b864c79d26157c8.mp3",
+      "seconds": 2.4
+    },
+    "I need to find out when the next course starts.": {
+      "src": "audio/3a9f3c7103b2c205.mp3",
+      "seconds": 3.504
+    },
+    "I need to make an appointment with the adviser before Friday.": {
+      "src": "audio/903e99c97a2b3450.mp3",
+      "seconds": 4.176
+    },
+    "I need to talk it over with my colleague before I agree.": {
+      "src": "audio/d5c36d89d546e8c8.mp3",
+      "seconds": 3.936
+    },
+    "I need to think it over.": {
+      "src": "audio/342e87b75ebc121b.mp3",
+      "seconds": 2.208
+    },
+    "I paid attention to the speaker's examples and understood the point.": {
+      "src": "audio/71171f276712d406.mp3",
+      "seconds": 4.416
+    },
+    "I spend time reading in English every evening.": {
+      "src": "audio/fa9828e4716ae88a.mp3",
+      "seconds": 3.384
+    },
+    "I spent time checking the figures.": {
+      "src": "audio/12f24e9e7ec39cb1.mp3",
+      "seconds": 2.784
+    },
+    "I try to keep a promise even when my plans change.": {
+      "src": "audio/1daad30d38f0de3e.mp3",
+      "seconds": 4.032
+    },
+    "I try to make an effort to use new phrases in conversation.": {
+      "src": "audio/93f0f198cdc33f0e.mp3",
+      "seconds": 4.392
+    },
+    "I usually have breakfast before I leave for work.": {
+      "src": "audio/ee83156b4518e8cd.mp3",
+      "seconds": 3.768
+    },
+    "I usually do homework for my English class in the evening.": {
+      "src": "audio/32a2301dd819aab4.mp3",
+      "seconds": 4.056
+    },
+    "I usually take a shower after a long journey.": {
+      "src": "audio/79691530c4e56919.mp3",
+      "seconds": 3.528
+    },
+    "I wasted time looking in the wrong folder.": {
+      "src": "audio/c56a6a7ba6619c04.mp3",
+      "seconds": 3.264
+    },
+    "I wasted time searching for a file that was already open.": {
+      "src": "audio/0a42e7823e7ffca7.mp3",
+      "seconds": 4.176
+    },
+    "I woke up at six.": {
+      "src": "audio/7e2560e248f515f0.mp3",
+      "seconds": 2.376
+    },
+    "I woke up early this morning because of the noise.": {
+      "src": "audio/f15ae13b31a85774.mp3",
+      "seconds": 3.576
+    },
+    "I would like a day to think over your proposal.": {
+      "src": "audio/2a263bc835827163.mp3",
+      "seconds": 3.384
+    },
+    "I would like to bring up one issue before we finish.": {
+      "src": "audio/67750dfad61de709.mp3",
+      "seconds": 3.576
+    },
+    "I would like to take up photography when I have more free time.": {
+      "src": "audio/f96a8eed0489fa77.mp3",
+      "seconds": 4.296
+    },
+    "If we leave now, we can catch a bus before the rain starts.": {
+      "src": "audio/bfeae3dc1084f787.mp3",
+      "seconds": 4.632
+    },
+    "If you do not know the term, look it up in a dictionary.": {
+      "src": "audio/fff3927b465b2bca.mp3",
+      "seconds": 3.84
+    },
+    "It is dark here. Could you turn on the lamp?": {
+      "src": "audio/89bbca4c5a79d718.mp3",
+      "seconds": 4.272
+    },
+    "It is cold outside, so put on your coat before you leave.": {
+      "src": "audio/6a622da17950f462.mp3",
+      "seconds": 4.584
+    },
+    "It is easier to make friends when you share an interest.": {
+      "src": "audio/a3c7a591a595266b.mp3",
+      "seconds": 3.984
+    },
+    "It is easy to make a mistake when you rush through the instructions.": {
+      "src": "audio/8132a8649cb75cec.mp3",
+      "seconds": 4.464
+    },
+    "It is highly likely that the meeting will finish later than planned.": {
+      "src": "audio/ee5c2fcef24b3fef.mp3",
+      "seconds": 4.416
+    },
+    "It is too early to draw a conclusion from such a small sample.": {
+      "src": "audio/6fb2286039d51bb5.mp3",
+      "seconds": 4.56
+    },
+    "Let us go for a walk after lunch if the weather stays dry.": {
+      "src": "audio/31ea5e4c795b6927.mp3",
+      "seconds": 3.984
+    },
+    "It took me a while to get over the disappointment and try again.": {
+      "src": "audio/c1dc233b837c7c51.mp3",
+      "seconds": 4.152
+    },
+    "Let us keep in touch after the course finishes.": {
+      "src": "audio/74a6ff7fd7648624.mp3",
+      "seconds": 3.408
+    },
+    "Let us talk over the options before we choose a date.": {
+      "src": "audio/b7c90e965c1c1908.mp3",
+      "seconds": 3.816
+    },
+    "May I ask a question?": {
+      "src": "audio/b13b201253d57165.mp3",
+      "seconds": 2.376
+    },
+    "Let us talk it over.": {
+      "src": "audio/6729ab318b4d5839.mp3",
+      "seconds": 2.208
+    },
+    "May I ask a question about the last slide?": {
+      "src": "audio/9c15a03b3e47f87b.mp3",
+      "seconds": 3.432
+    },
+    "May I make a suggestion about the order of the slides?": {
+      "src": "audio/af0f84f139cbbab5.mp3",
+      "seconds": 3.84
+    },
+    "My neighbour will look after my cat while I am away.": {
+      "src": "audio/37c82ea538ee7961.mp3",
+      "seconds": 3.624
+    },
+    "My tutor gave advice that helped me practise more regularly.": {
+      "src": "audio/76d9b4285be9871d.mp3",
+      "seconds": 4.128
+    },
+    "Please come back tomorrow; the office is closed now.": {
+      "src": "audio/2501af81a404d8ff.mp3",
+      "seconds": 3.96
+    },
+    "Our flight took off twenty minutes later than planned.": {
+      "src": "audio/62502da6806f64c8.mp3",
+      "seconds": 3.72
+    },
+    "Please fill in this form before the appointment.": {
+      "src": "audio/a6f65eaa7e7945bf.mp3",
+      "seconds": 3.288
+    },
+    "Please go on reading; we still have ten minutes.": {
+      "src": "audio/a9c199d1675a696b.mp3",
+      "seconds": 3.84
+    },
+    "Please log out when you finish using the shared computer.": {
+      "src": "audio/54de64843cc7c29f.mp3",
+      "seconds": 3.84
+    },
+    "Please pay attention to the words around the gap.": {
+      "src": "audio/af953e9bca8a1c62.mp3",
+      "seconds": 3.432
+    },
+    "Please plug it in.": {
+      "src": "audio/8a74a1ade57258b0.mp3",
+      "seconds": 2.04
+    },
+    "Please turn it on.": {
+      "src": "audio/ec35f8127219c7fb.mp3",
+      "seconds": 2.064
+    },
+    "Please point out any errors you notice in the draft.": {
+      "src": "audio/17ebf88f5c3b5e52.mp3",
+      "seconds": 3.648
+    },
+    "Please turn off the lights before you leave.": {
+      "src": "audio/f1136ab882674be9.mp3",
+      "seconds": 3.24
+    },
+    "Please write down the address before you forget it.": {
+      "src": "audio/489086fdcd6c0474.mp3",
+      "seconds": 3.432
+    },
+    "Remember to back up your notes before changing devices.": {
+      "src": "audio/1a534ec9206de4ad.mp3",
+      "seconds": 4.224
+    },
+    "She brought up the question of how to organise the next meeting.": {
+      "src": "audio/6fbc6be345dc57c3.mp3",
+      "seconds": 4.128
+    },
+    "She brought up the problem.": {
+      "src": "audio/bcaab0a02785fc83.mp3",
+      "seconds": 2.352
+    },
+    "She almost gave up, but then found a simpler way to solve the problem.": {
+      "src": "audio/d8f10b02b0b681e4.mp3",
+      "seconds": 4.848
+    },
+    "She came back from the conference with several new ideas.": {
+      "src": "audio/fbfaeb391d46d90a.mp3",
+      "seconds": 4.104
+    },
+    "She came up with a solution.": {
+      "src": "audio/c1ff0ad385029dfe.mp3",
+      "seconds": 2.544
+    },
+    "She can give advice on how to organise your study time.": {
+      "src": "audio/739c69efbf8bc30b.mp3",
+      "seconds": 4.08
+    },
+    "She did homework before watching the next episode.": {
+      "src": "audio/87b850633d5f122b.mp3",
+      "seconds": 3.648
+    },
+    "She gave a presentation on how to read scientific papers more efficiently.": {
+      "src": "audio/93caab0a1e8e3b5d.mp3",
+      "seconds": 5.016
+    },
+    "She checked in at the hotel before going to the conference centre.": {
+      "src": "audio/a9d4e2b24b3806fe.mp3",
+      "seconds": 4.104
+    },
+    "She got along with the new team from the start.": {
+      "src": "audio/cde1f0c95db704a4.mp3",
+      "seconds": 3.408
+    },
+    "She gave an answer after checking the original source.": {
+      "src": "audio/93bc05f2a2fab076.mp3",
+      "seconds": 3.936
+    },
+    "She got on the bus near the hospital.": {
+      "src": "audio/56b1045b32bd0a0c.mp3",
+      "seconds": 3.0
+    },
+    "She gradually got over her fear of speaking in front of a group.": {
+      "src": "audio/04cb7e47593bced5.mp3",
+      "seconds": 4.32
+    },
+    "She logged out before letting another person use the device.": {
+      "src": "audio/66ceddf11ca9f82d.mp3",
+      "seconds": 4.2
+    },
+    "She kept a promise and sent the notes before Friday.": {
+      "src": "audio/511574744f1c4f11.mp3",
+      "seconds": 3.864
+    },
+    "She looked after her younger brother when their parents were working.": {
+      "src": "audio/a82c97567f1ddf49.mp3",
+      "seconds": 4.248
+    },
+    "She looked up the unfamiliar word before reading on.": {
+      "src": "audio/6e54943d22599aed.mp3",
+      "seconds": 3.84
+    },
+    "She made a decision after comparing all the options.": {
+      "src": "audio/fbbe77f0fa48cd80.mp3",
+      "seconds": 3.84
+    },
+    "She made a suggestion that improved the structure of the discussion.": {
+      "src": "audio/cb69e0db9b50e34d.mp3",
+      "seconds": 4.248
+    },
+    "She made an appointment to discuss the course requirements in person.": {
+      "src": "audio/4e5e59ce2edaea33.mp3",
+      "seconds": 4.464
+    },
+    "She made an effort to explain the idea without technical jargon.": {
+      "src": "audio/c100dac10dce92b3.mp3",
+      "seconds": 4.392
+    },
+    "She made friends during the language course.": {
+      "src": "audio/d3b9104ec1a1e553.mp3",
+      "seconds": 3.432
+    },
+    "She put on her glasses to read the small print.": {
+      "src": "audio/fbcc1f910a9aef2d.mp3",
+      "seconds": 3.624
+    },
+    "She picked up her colleague on the way to the conference.": {
+      "src": "audio/0d2b6aa8f55d46ab.mp3",
+      "seconds": 3.552
+    },
+    "She set up a study group for colleagues learning English.": {
+      "src": "audio/71e0328689b21ee3.mp3",
+      "seconds": 3.984
+    },
+    "She took a break before reviewing the final section.": {
+      "src": "audio/4c254dab2defcd7f.mp3",
+      "seconds": 3.648
+    },
+    "She sorted out the misunderstanding by explaining what had happened.": {
+      "src": "audio/e3fced3fbb780c5f.mp3",
+      "seconds": 4.608
+    },
+    "She took notes during the discussion so she could review them later.": {
+      "src": "audio/c08e37818bcdb46a.mp3",
+      "seconds": 4.416
+    },
+    "She took up swimming after moving closer to the pool.": {
+      "src": "audio/34a21d863d36f657.mp3",
+      "seconds": 3.96
+    },
+    "She took responsibility for the mistake and helped to correct it.": {
+      "src": "audio/a459337e15718328.mp3",
+      "seconds": 4.176
+    },
+    "She turned down the job offer after considering the travel time.": {
+      "src": "audio/183e76374d81f5a0.mp3",
+      "seconds": 4.296
+    },
+    "She was fully aware that the first draft would need substantial revision.": {
+      "src": "audio/ee29bc6903a95c6b.mp3",
+      "seconds": 4.536
+    },
+    "She was on time for every session of the course.": {
+      "src": "audio/ca8c4ab5c30839c7.mp3",
+      "seconds": 3.48
+    },
+    "She went over the figures carefully before the meeting.": {
+      "src": "audio/207e0cd61d353cfb.mp3",
+      "seconds": 3.696
+    },
+    "Short daily practice helps me make progress in English.": {
+      "src": "audio/6b7f5ff166074e86.mp3",
+      "seconds": 4.104
+    },
+    "Someone needs to take responsibility for keeping the information up to date.": {
+      "src": "audio/648233917039f5bf.mp3",
+      "seconds": 4.992
+    },
+    "Starting a new project means being willing to take a risk.": {
+      "src": "audio/375d2c40a78f291c.mp3",
+      "seconds": 4.248
+    },
+    "The authors drew a conclusion that was more cautious than the headline.": {
+      "src": "audio/8386a27eb5f19136.mp3",
+      "seconds": 4.368
+    },
+    "The authors provided evidence to support their interpretation.": {
+      "src": "audio/4b3aec588cc7ca01.mp3",
+      "seconds": 4.296
+    },
+    "The battery is nearly empty. Could you plug in the charger?": {
+      "src": "audio/cd198f3c29d8b894.mp3",
+      "seconds": 4.968
+    },
+    "The cable is ready. Please plug it in.": {
+      "src": "audio/7f9e810fa176c9a3.mp3",
+      "seconds": 4.056
+    },
+    "The car broke down on the way to the conference, so we took a taxi.": {
+      "src": "audio/dc109a5a36af2342.mp3",
+      "seconds": 4.704
+    },
+    "The discussion raised a question that had not been considered before.": {
+      "src": "audio/1252084c829b6d17.mp3",
+      "seconds": 4.32
+    },
+    "The editor thought a further revision was highly likely.": {
+      "src": "audio/d31e99c7e3b1f0a8.mp3",
+      "seconds": 3.768
+    },
+    "The event cannot go ahead. We need to call it off.": {
+      "src": "audio/5276bfa67c8fd1d6.mp3",
+      "seconds": 4.776
+    },
+    "The first attempt failed, but I do not want to give up.": {
+      "src": "audio/cc6c87cf6b311fdb.mp3",
+      "seconds": 4.032
+    },
+    "The offer is interesting, but I need to think it over.": {
+      "src": "audio/78c193431438ec2f.mp3",
+      "seconds": 3.792
+    },
+    "The organisers had to call off the outdoor event because of the storm.": {
+      "src": "audio/04afafb4663ebea6.mp3",
+      "seconds": 4.464
+    },
+    "The outdoor event was cancelled because of heavy rain.": {
+      "src": "audio/d77747e078b0fecc.mp3",
+      "seconds": 3.672
+    },
+    "The plane will take off as soon as the runway is clear.": {
+      "src": "audio/e468d9edbf6d1bb3.mp3",
+      "seconds": 3.984
+    },
+    "The printer stopped because we had run out of paper.": {
+      "src": "audio/3f2f39d9fef84363.mp3",
+      "seconds": 3.528
+    },
+    "The project will help me gain experience in working with different teams.": {
+      "src": "audio/715141ce71f25cf6.mp3",
+      "seconds": 4.752
+    },
+    "The report should provide evidence for its main claims.": {
+      "src": "audio/a74395ee3acd618a.mp3",
+      "seconds": 3.888
+    },
+    "The researchers plan to collect data over six months.": {
+      "src": "audio/4bc04c7afa3e022f.mp3",
+      "seconds": 4.056
+    },
+    "The reviewer asked whether the argument was supported by strong evidence.": {
+      "src": "audio/47abf8dea01375e6.mp3",
+      "seconds": 4.728
+    },
+    "The reviewer pointed out that one reference was missing.": {
+      "src": "audio/533a400c09051db9.mp3",
+      "seconds": 3.672
+    },
+    "The screen is off. Please turn it on.": {
+      "src": "audio/0837ae7aa6017895.mp3",
+      "seconds": 4.08
+    },
+    "The team carried out the task according to the agreed plan.": {
+      "src": "audio/585a000c4cba916e.mp3",
+      "seconds": 3.984
+    },
+    "The team did research into how people remember unfamiliar words.": {
+      "src": "audio/32b8e5473f63818d.mp3",
+      "seconds": 4.752
+    },
+    "The team faced a challenge when the requirements changed halfway through.": {
+      "src": "audio/a4ef20e27df5d492.mp3",
+      "seconds": 4.656
+    },
+    "These observations raise a question about how the method should be used.": {
+      "src": "audio/c6aecd63c11db46c.mp3",
+      "seconds": 4.656
+    },
+    "The team met a deadline despite the unexpected delay.": {
+      "src": "audio/7e9dd769ed908abf.mp3",
+      "seconds": 3.984
+    },
+    "They broke up last year after several years together.": {
+      "src": "audio/d1f0c96cae9ffad6.mp3",
+      "seconds": 3.864
+    },
+    "They checked out early and left their bags at reception.": {
+      "src": "audio/aa7e37db1f17365c.mp3",
+      "seconds": 4.104
+    },
+    "They decided to break up, but wanted to remain friends.": {
+      "src": "audio/9540aa2b282b9685.mp3",
+      "seconds": 4.224
+    },
+    "They reached an agreement after discussing the remaining differences.": {
+      "src": "audio/18f5e246a47b6689.mp3",
+      "seconds": 4.368
+    },
+    "They went out to celebrate the end of the project.": {
+      "src": "audio/50a4ad9126804adc.mp3",
+      "seconds": 3.408
+    },
+    "This number is important. Please write it down.": {
+      "src": "audio/f73b1648d1da924e.mp3",
+      "seconds": 4.632
+    },
+    "We achieved a goal that had seemed difficult at the beginning.": {
+      "src": "audio/d39ca78a29641383.mp3",
+      "seconds": 3.768
+    },
+    "We are fully aware of the limitations of this approach.": {
+      "src": "audio/f143056480bd237b.mp3",
+      "seconds": 3.936
+    },
+    "We attended a meeting about the changes to the project schedule.": {
+      "src": "audio/67645f00371e62b0.mp3",
+      "seconds": 4.224
+    },
+    "We called off the meeting.": {
+      "src": "audio/5c323a677cac3fb5.mp3",
+      "seconds": 2.304
+    },
+    "We can check in at the hotel after two in the afternoon.": {
+      "src": "audio/702584c1d0545ad3.mp3",
+      "seconds": 4.032
+    },
+    "We collected data from several sources before comparing the results.": {
+      "src": "audio/ec61570a2ed0adde.mp3",
+      "seconds": 4.896
+    },
+    "We collected the data.": {
+      "src": "audio/598e746fb1a5ffbf.mp3",
+      "seconds": 2.328
+    },
+    "We drew a conclusion from the data.": {
+      "src": "audio/1a73a55565f971aa.mp3",
+      "seconds": 3.072
+    },
+    "We cut down on unnecessary emails by writing clearer summaries.": {
+      "src": "audio/3997bc6a2c8e5588.mp3",
+      "seconds": 5.064
+    },
+    "We expected ten people, but only six managed to turn up.": {
+      "src": "audio/d9d500b47f4ff9d6.mp3",
+      "seconds": 4.632
+    },
+    "We had a conversation that changed the way I saw the problem.": {
+      "src": "audio/d303ffa7d1560093.mp3",
+      "seconds": 4.248
+    },
+    "We found out that the meeting had moved to another room.": {
+      "src": "audio/e903ad103707e0ae.mp3",
+      "seconds": 3.768
+    },
+    "We had breakfast together before the morning meeting.": {
+      "src": "audio/edbac4f015ef0791.mp3",
+      "seconds": 3.672
+    },
+    "We have been working for two hours. Let us take a break.": {
+      "src": "audio/b99fd39c98cef5b5.mp3",
+      "seconds": 4.992
+    },
+    "We hope to reach an agreement before the next meeting.": {
+      "src": "audio/ec019a846f9bed30.mp3",
+      "seconds": 3.72
+    },
+    "We kept in touch by email after she moved abroad.": {
+      "src": "audio/dad31f0d9a74687b.mp3",
+      "seconds": 4.152
+    },
+    "We made progress even though the task was harder than expected.": {
+      "src": "audio/2b8dd3cf2cac2c61.mp3",
+      "seconds": 4.248
+    },
+    "We made a plan together and agreed on the first step.": {
+      "src": "audio/c1a17249e0e1aac8.mp3",
+      "seconds": 3.912
+    },
+    "We may run out of time if we discuss every detail now.": {
+      "src": "audio/1cc0978ab292ea25.mp3",
+      "seconds": 4.224
+    },
+    "We must be on time for the interview; it starts at nine.": {
+      "src": "audio/7d8894efbb92ba74.mp3",
+      "seconds": 4.488
+    },
+    "We must make a choice between a shorter course and a more detailed one.": {
+      "src": "audio/2589d12cedc5b9eb.mp3",
+      "seconds": 4.632
+    },
+    "We need a backup plan in case the equipment should break down.": {
+      "src": "audio/b808b00a9e40b11d.mp3",
+      "seconds": 4.344
+    },
+    "We need a realistic plan if we want to meet a deadline.": {
+      "src": "audio/dfd4d4b0e077037f.mp3",
+      "seconds": 3.936
+    },
+    "We need strong evidence before accepting such a broad claim.": {
+      "src": "audio/d6219c7bcbaf5570.mp3",
+      "seconds": 4.392
+    },
+    "We need to carry out a final check before sharing the document.": {
+      "src": "audio/91942b82abd08f9f.mp3",
+      "seconds": 4.368
+    },
+    "We need to check out of the hotel by eleven tomorrow.": {
+      "src": "audio/162e36fa16ba8538.mp3",
+      "seconds": 3.816
+    },
+    "We need to do research before making a general claim.": {
+      "src": "audio/e8d3aff5c5ca82c9.mp3",
+      "seconds": 4.128
+    },
+    "We need to get on the next train to reach the airport in time.": {
+      "src": "audio/e6fd657ff0a2dd8c.mp3",
+      "seconds": 4.2
+    },
+    "We need to make a decision before the end of the day.": {
+      "src": "audio/eba8401e55da8f3f.mp3",
+      "seconds": 3.648
+    },
+    "We need to set up a short meeting to agree on the plan.": {
+      "src": "audio/f629969c74d425fd.mp3",
+      "seconds": 3.912
+    },
+    "We need to work out why the figures do not match.": {
+      "src": "audio/d6627db0dfe606e9.mp3",
+      "seconds": 3.648
+    },
+    "We put off the meeting until Friday.": {
+      "src": "audio/ab8a307793290e5f.mp3",
+      "seconds": 3.168
+    },
+    "We saved time by preparing the documents in advance.": {
+      "src": "audio/7987bd0cf131029c.mp3",
+      "seconds": 4.056
+    },
+    "We share the jobs and do housework together at the weekend.": {
+      "src": "audio/6054d9fb8b290b7e.mp3",
+      "seconds": 4.152
+    },
+    "We should get off the bus at the next stop.": {
+      "src": "audio/fc623a51a0bea832.mp3",
+      "seconds": 3.096
+    },
+    "We should sort out the booking problem before we travel.": {
+      "src": "audio/19cc357c52b90a9b.mp3",
+      "seconds": 3.72
+    },
+    "We solved a problem that had delayed the project for several weeks.": {
+      "src": "audio/cec8513078309a10.mp3",
+      "seconds": 4.344
+    },
+    "We spent time comparing the two explanations before choosing one.": {
+      "src": "audio/71617968d7365406.mp3",
+      "seconds": 4.656
+    },
+    "We usually go out for dinner on Fridays.": {
+      "src": "audio/4ea2cf03c0d9077d.mp3",
+      "seconds": 3.408
+    },
+    "We waited inside until the heavy rain had stopped.": {
+      "src": "audio/2b03f256085bc29b.mp3",
+      "seconds": 3.816
+    },
+    "We went for a walk along the river yesterday.": {
+      "src": "audio/253a4a4b0fb9ca44.mp3",
+      "seconds": 3.36
+    },
+    "We will put off the meeting until Friday because two people are away.": {
+      "src": "audio/c93b297b1aa96bc6.mp3",
+      "seconds": 4.608
+    },
+    "When you speak without a script, you may face a challenge at first.": {
+      "src": "audio/b90fe3e4f8303f90.mp3",
+      "seconds": 4.632
+    },
+    "Yesterday I got up at seven and went straight to the kitchen.": {
+      "src": "audio/0d232f16ac1733f2.mp3",
+      "seconds": 4.2
+    },
+    "You can change your mind before the booking is confirmed.": {
+      "src": "audio/9cdd868ce8545ded.mp3",
+      "seconds": 3.984
+    },
+    "You may come across unfamiliar terms while reading this chapter.": {
+      "src": "audio/29ddb6d4bcb7d0e4.mp3",
+      "seconds": 4.368
+    },
+    "You need to log in before you can download the file.": {
+      "src": "audio/7d4e34348c2f4b4c.mp3",
+      "seconds": 3.768
+    },
+    "Your feedback made a difference to the final version of the guide.": {
+      "src": "audio/f97eefdeb12b4d4b.mp3",
+      "seconds": 4.248
+    },
+    "achieve a goal": {
+      "src": "audio/1523f9ad29c51035.mp3",
+      "seconds": 2.04
+    },
+    "ask a question": {
+      "src": "audio/2c05ea96ad3d3cce.mp3",
+      "seconds": 2.04
+    },
+    "attend a meeting": {
+      "src": "audio/9f5185778e79aa51.mp3",
+      "seconds": 2.088
+    },
+    "back up": {
+      "src": "audio/1cd0a91b4f077ba4.mp3",
+      "seconds": 1.872
+    },
+    "be on time": {
+      "src": "audio/c72005a487227224.mp3",
+      "seconds": 2.016
+    },
+    "break down": {
+      "src": "audio/ec77ea58727e83b4.mp3",
+      "seconds": 1.896
+    },
+    "bring up": {
+      "src": "audio/85d958e563aac57d.mp3",
+      "seconds": 1.872
+    },
+    "break up": {
+      "src": "audio/115648e47de1eef3.mp3",
+      "seconds": 1.872
+    },
+    "call off": {
+      "src": "audio/3703dff773bb5aa8.mp3",
+      "seconds": 1.872
+    },
+    "carry out": {
+      "src": "audio/379952c5a7a5f6b7.mp3",
+      "seconds": 1.872
+    },
+    "catch a bus": {
+      "src": "audio/ddcec27f90b95123.mp3",
+      "seconds": 1.992
+    },
+    "change your mind": {
+      "src": "audio/c29761076845550b.mp3",
+      "seconds": 2.232
+    },
+    "check in": {
+      "src": "audio/0869777829148819.mp3",
+      "seconds": 1.872
+    },
+    "check out": {
+      "src": "audio/2cd723e88a7f58aa.mp3",
+      "seconds": 1.872
+    },
+    "collect data": {
+      "src": "audio/5fb8609a6426c856.mp3",
+      "seconds": 1.944
+    },
+    "come across": {
+      "src": "audio/0e9fb6ef3146150a.mp3",
+      "seconds": 1.872
+    },
+    "come back": {
+      "src": "audio/62f29b1c856bfb6c.mp3",
+      "seconds": 1.872
+    },
+    "come up with": {
+      "src": "audio/cc172d88aa161284.mp3",
+      "seconds": 1.872
+    },
+    "cut down on": {
+      "src": "audio/ef7944dfd3bee5d4.mp3",
+      "seconds": 1.92
+    },
+    "do homework": {
+      "src": "audio/7dc913fc232508fa.mp3",
+      "seconds": 1.944
+    },
+    "do research": {
+      "src": "audio/fc31c87bea12a6be.mp3",
+      "seconds": 2.016
+    },
+    "do housework": {
+      "src": "audio/2257c7f3586017db.mp3",
+      "seconds": 2.04
+    },
+    "draw a conclusion": {
+      "src": "audio/0ab52ab1b81e4da6.mp3",
+      "seconds": 2.208
+    },
+    "face a challenge": {
+      "src": "audio/a73547169bcee506.mp3",
+      "seconds": 2.112
+    },
+    "fill in": {
+      "src": "audio/599dea6aec373d40.mp3",
+      "seconds": 1.872
+    },
+    "find out": {
+      "src": "audio/d7411f04d55d30d5.mp3",
+      "seconds": 1.872
+    },
+    "find out the answer": {
+      "src": "audio/6a81cf3b1d515809.mp3",
+      "seconds": 2.256
+    },
+    "fully aware": {
+      "src": "audio/0745a6f78da35138.mp3",
+      "seconds": 1.872
+    },
+    "gain experience": {
+      "src": "audio/a42816c9547d08e7.mp3",
+      "seconds": 2.256
+    },
+    "get along with": {
+      "src": "audio/33919b395e0771ab.mp3",
+      "seconds": 1.896
+    },
+    "get off": {
+      "src": "audio/2ea2021be0859652.mp3",
+      "seconds": 1.872
+    },
+    "get on": {
+      "src": "audio/2cee4503f377e2c5.mp3",
+      "seconds": 1.872
+    },
+    "get over": {
+      "src": "audio/2e2347ac534b88e9.mp3",
+      "seconds": 1.656
+    },
+    "get up": {
+      "src": "audio/4553dee862f05c9f.mp3",
+      "seconds": 1.872
+    },
+    "give a presentation": {
+      "src": "audio/a3a4f8f2b3b9b9a0.mp3",
+      "seconds": 2.208
+    },
+    "give advice": {
+      "src": "audio/2a380489457190b6.mp3",
+      "seconds": 1.896
+    },
+    "give an answer": {
+      "src": "audio/6e2fcf34fc5e01a7.mp3",
+      "seconds": 1.872
+    },
+    "give back": {
+      "src": "audio/56454e8ffa72abf8.mp3",
+      "seconds": 1.872
+    },
+    "give up": {
+      "src": "audio/bcfea9f848bc62a0.mp3",
+      "seconds": 1.872
+    },
+    "go for a walk": {
+      "src": "audio/813c81b081d1d3e0.mp3",
+      "seconds": 2.088
+    },
+    "go on": {
+      "src": "audio/b5013eb1c1b2db1f.mp3",
+      "seconds": 1.872
+    },
+    "go out": {
+      "src": "audio/78e1c89057739afe.mp3",
+      "seconds": 1.872
+    },
+    "go over": {
+      "src": "audio/2d9eb78780d8ec54.mp3",
+      "seconds": 1.872
+    },
+    "grow up": {
+      "src": "audio/4d1ebcc3f2b26c93.mp3",
+      "seconds": 1.872
+    },
+    "have a conversation": {
+      "src": "audio/e4914a5b62f96215.mp3",
+      "seconds": 2.208
+    },
+    "have breakfast": {
+      "src": "audio/721b64eabf08a1d7.mp3",
+      "seconds": 1.992
+    },
+    "heavy rain": {
+      "src": "audio/ceb54cd5bf1f860d.mp3",
+      "seconds": 1.896
+    },
+    "highly likely": {
+      "src": "audio/dd76f4c7942f680b.mp3",
+      "seconds": 2.016
+    },
+    "keep a promise": {
+      "src": "audio/b546156cb5385240.mp3",
+      "seconds": 1.968
+    },
+    "keep in touch": {
+      "src": "audio/df4c04ea2e2e50ea.mp3",
+      "seconds": 2.016
+    },
+    "leave out": {
+      "src": "audio/fc718e8e876207c6.mp3",
+      "seconds": 1.872
+    },
+    "log in": {
+      "src": "audio/7f0348c1e2dd94ac.mp3",
+      "seconds": 1.872
+    },
+    "log out": {
+      "src": "audio/6a832af49de9b6b9.mp3",
+      "seconds": 1.872
+    },
+    "look after": {
+      "src": "audio/2f68f7a0fa3b500c.mp3",
+      "seconds": 1.872
+    },
+    "look for": {
+      "src": "audio/49252bab0827135f.mp3",
+      "seconds": 1.872
+    },
+    "look up": {
+      "src": "audio/a973a2796d13e1db.mp3",
+      "seconds": 1.872
+    },
+    "make a choice": {
+      "src": "audio/7ff9445c8e853c72.mp3",
+      "seconds": 2.04
+    },
+    "make a decision": {
+      "src": "audio/0e747bbe12bba78b.mp3",
+      "seconds": 2.016
+    },
+    "make a difference": {
+      "src": "audio/f2f1d6af914f9b01.mp3",
+      "seconds": 2.136
+    },
+    "make a mistake": {
+      "src": "audio/d826cbe872992ef8.mp3",
+      "seconds": 2.064
+    },
+    "make a plan": {
+      "src": "audio/1879db0b5b494c13.mp3",
+      "seconds": 1.872
+    },
+    "make a suggestion": {
+      "src": "audio/f57c435892887f89.mp3",
+      "seconds": 2.184
+    },
+    "make an appointment": {
+      "src": "audio/e1bce2719d6a19a8.mp3",
+      "seconds": 2.16
+    },
+    "make an effort": {
+      "src": "audio/216ca5a2d6df6014.mp3",
+      "seconds": 1.968
+    },
+    "make friends": {
+      "src": "audio/6b4282d907ac4b28.mp3",
+      "seconds": 1.968
+    },
+    "make progress": {
+      "src": "audio/89059909fb111819.mp3",
+      "seconds": 2.088
+    },
+    "meet a deadline": {
+      "src": "audio/0af94d35dfd04105.mp3",
+      "seconds": 2.064
+    },
+    "pay attention": {
+      "src": "audio/439fa887857eda90.mp3",
+      "seconds": 1.944
+    },
+    "pick up": {
+      "src": "audio/b771b19589eb64f8.mp3",
+      "seconds": 1.872
+    },
+    "plug in": {
+      "src": "audio/175f1fa991bc6900.mp3",
+      "seconds": 1.872
+    },
+    "point out": {
+      "src": "audio/02de5e45dbaa1204.mp3",
+      "seconds": 1.872
+    },
+    "provide evidence": {
+      "src": "audio/959d776c58248433.mp3",
+      "seconds": 2.16
+    },
+    "put off": {
+      "src": "audio/23b3884eafad6033.mp3",
+      "seconds": 1.872
+    },
+    "put on": {
+      "src": "audio/3463c7cb65c9036a.mp3",
+      "seconds": 1.872
+    },
+    "raise a question": {
+      "src": "audio/42bd35e7a2087271.mp3",
+      "seconds": 2.04
+    },
+    "reach an agreement": {
+      "src": "audio/a0359ce6c8dd50e3.mp3",
+      "seconds": 2.136
+    },
+    "reliable source": {
+      "src": "audio/62734c10e7368144.mp3",
+      "seconds": 2.328
+    },
+    "run out of": {
+      "src": "audio/301d740a92f97c5b.mp3",
+      "seconds": 1.872
+    },
+    "set up": {
+      "src": "audio/ec153694483b2b7d.mp3",
+      "seconds": 1.872
+    },
+    "save time": {
+      "src": "audio/e3a8224eb1fb6f6f.mp3",
+      "seconds": 1.992
+    },
+    "solve a problem": {
+      "src": "audio/2dceb9e1fa3b9479.mp3",
+      "seconds": 1.992
+    },
+    "sort out": {
+      "src": "audio/695c9bb3ac35789f.mp3",
+      "seconds": 1.872
+    },
+    "spend time": {
+      "src": "audio/5e5445bab96cfb73.mp3",
+      "seconds": 1.944
+    },
+    "strong evidence": {
+      "src": "audio/cdd2bd9188be880d.mp3",
+      "seconds": 2.208
+    },
+    "take a break": {
+      "src": "audio/5ec19dd0707017cb.mp3",
+      "seconds": 1.872
+    },
+    "take a risk": {
+      "src": "audio/4062a6f939025ba0.mp3",
+      "seconds": 1.92
+    },
+    "take a shower": {
+      "src": "audio/dd4714ef7d83f827.mp3",
+      "seconds": 1.92
+    },
+    "take notes": {
+      "src": "audio/95ab4809a9b8fce4.mp3",
+      "seconds": 1.944
+    },
+    "take off": {
+      "src": "audio/9f2bc7108cc435a0.mp3",
+      "seconds": 1.752
+    },
+    "take responsibility": {
+      "src": "audio/097422fafd783f34.mp3",
+      "seconds": 2.328
+    },
+    "talk over": {
+      "src": "audio/43bdedfedd8c750f.mp3",
+      "seconds": 1.872
+    },
+    "take up": {
+      "src": "audio/655d06ff09f22681.mp3",
+      "seconds": 1.872
+    },
+    "think over": {
+      "src": "audio/9fbf2889b81f2fd2.mp3",
+      "seconds": 1.872
+    },
+    "turn down": {
+      "src": "audio/75d1c6b8dc8bfc56.mp3",
+      "seconds": 1.896
+    },
+    "turn it off": {
+      "src": "audio/b83dd29b41484589.mp3",
+      "seconds": 1.896
+    },
+    "turn off": {
+      "src": "audio/0d6ad161c0cf0344.mp3",
+      "seconds": 1.872
+    },
+    "turn on": {
+      "src": "audio/c1259f0a1c1044ba.mp3",
+      "seconds": 1.872
+    },
+    "turn up": {
+      "src": "audio/e4cf77dd85e1f5d0.mp3",
+      "seconds": 1.872
+    },
+    "wake up": {
+      "src": "audio/73a342884bb68061.mp3",
+      "seconds": 1.872
+    },
+    "waste time": {
+      "src": "audio/1e230b15c3632c51.mp3",
+      "seconds": 1.92
+    },
+    "work out": {
+      "src": "audio/2b7c8b878550c34d.mp3",
+      "seconds": 1.872
+    },
+    "write down": {
+      "src": "audio/373e55a6b67d1bb7.mp3",
+      "seconds": 1.92
+    }
+  }
+}
